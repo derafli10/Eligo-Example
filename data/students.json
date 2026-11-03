@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "last_updated": "2026-10-28T04:10:03.617208+00:00",
+  "data": {
+    "next_id_seq": 3,
+    "students": [
+      {
+        "id": "S001",
+        "name": "Muhammad Rafliza Ardiansa",
+        "class_name": "TKJ A",
+        "major_code": "TKJ",
+        "tka_status": "IKUT",
+        "grades": [
+          {
+            "MTK": 95,
+            "BIN": 95,
+            "ENG": 95,
+            "DJK": 95,
+            "SJR": 95,
+            "INFORMATIKA": 95,
+            "JPG": 95,
+            "IPAS": 95,
+            "PJOK": 95,
+            "PAI": 95
+          },
+          {
+            "MTK": 95,
+            "BIN": 95,
+            "ENG": 95,
+            "DJK": 95,
+            "SJR": 95,
+            "INFORMATIKA": 95,
+            "JPG": 95,
+            "IPAS": 95,
+            "PJOK": 95,
+            "PAI": 95
+          },
+          {
+            "MTK": 95,
+            "BIN": 95,
+            "ENG": 95,
+            "PJOK": 95,
+            "PAI": 95,
+            "TJKN": 95,
+            "AIJ": 95,
+            "ASJ": 95,
+            "PLH": 95,
+            "WEB": 98
+          },
+          {
+            "MTK": 95,
+            "BIN": 95,
+            "ENG": 95,
+            "PJOK": 95,
+            "PAI": 95,
+            "TJKN": 95,
+            "AIJ": 95,
+            "ASJ": 95,
+            "PLH": 95,
+            "WEB": 95
+          },
+          {
+            "MTK": 95,
+            "BIN": 95,
+            "ENG": 95,
+            "PJOK": 95,
+            "PAI": 95,
+            "TJKN": 95,
+            "AIJ": 95,
+            "ASJ": 95,
+            "PLH": 95,
+            "WEB": 95
+          }
+        ],
+        "achievements": [
+          {
+            "description": "Juara 1 LKS Web Technology",
+            "level": "KABUPATEN_KOTA"
+          }
+        ]
+      },
+      {
+        "id": "S002",
+        "name": "Muhammad Fadli Al Faruq",
+        "class_name": "TEI A",
+        "major_code": "TEI",
+        "tka_status": "IKUT",
+        "grades": [
+          {
+            "MTK": 75,
+            "BIN": 75,
+            "ENG": 75,
+            "PAI": 75,
+            "PJOK": 75,
+            "JPG": 75,
+            "DE": 75,
+            "INF": 80,
+            "IPAS": 80,
+            "SJR": 89
+          },
+          {
+            "MTK": 89,
+            "BIN": 89,
+            "ENG": 89,
+            "PAI": 89,
+            "PJOK": 89,
+            "JPG": 89,
+            "DE": 89,
+            "INF": 89,
+            "IPAS": 89,
+            "SJR": 89
+          },
+          {
+            "MTK": 90,
+            "BIN": 90,
+            "ENG": 90,
+            "PAI": 90,
+            "PJOK": 90,
+            "JPG": 90,
+            "DE": 98,
+            "INF": 93,
+            "IPAS": 94,
+            "SJR": 77
+          },
+          {
+            "MTK": 92,
+            "BIN": 92,
+            "ENG": 92,
+            "PAI": 92,
+            "PJOK": 92,
+            "JPG": 92,
+            "DE": 92,
+            "INF": 94,
+            "IPAS": 93,
+            "SJR": 95
+          },
+          {
+            "MTK": 95,
+            "BIN": 95,
+            "ENG": 95,
+            "PAI": 95,
+            "PJOK": 95,
+            "JPG": 90,
+            "DE": 97,
+            "INF": 91,
+            "IPAS": 92,
+            "SJR": 90
+          }
+        ],
+        "achievements": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "last_updated": "2026-10-26T00:00:00",
+  "data": {
+    "quota_percentages": {
+      "A": "0.40",
+      "B": "0.25",
+      "C": "0.05"
+    },
+    "e_rapor_bonus_percentage": "0.05",
+    "quota_rounding_mode": "floor",
+    "achievement_weights": {
+      "KABUPATEN_KOTA": "0.25",
+      "PROVINSI": "0.50",
+      "NASIONAL": "1.00",
+      "INTERNASIONAL": "1.50"
+    },
+    "achievement_max_points": "2.00",
+    "achievement_max_count": 5,
+    "tka_synonyms": {
+      "ikut": "IKUT",
+      "ya": "IKUT",
+      "y": "IKUT",
+      "1": "IKUT",
+      "true": "IKUT",
+      "tidak": "TIDAK_IKUT",
+      "tidak ikut": "TIDAK_IKUT",
+      "n": "TIDAK_IKUT",
+      "0": "TIDAK_IKUT",
+      "false": "TIDAK_IKUT"
+    },
+    "page_size": 25
+  }
+}
